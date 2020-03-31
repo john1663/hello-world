@@ -1,0 +1,9 @@
+## global definitions
+global:
+        debug: yes
+        verbose: no
+
+## output
+output:
+        file: "yes"
+
